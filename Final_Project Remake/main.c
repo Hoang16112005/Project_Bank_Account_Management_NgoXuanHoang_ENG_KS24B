@@ -4,7 +4,8 @@
 #include <stdbool.h>
 #include <string.h>
 #include "functionUser.h"
-
+//Name admin: Hoang
+//Password admin: Xuan
 
 
 int main() {
